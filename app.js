@@ -14,6 +14,3 @@ class Player {
     const player1 = new Player(name, 10, 100, 50);
     console.log("🚀 ~ file: app.js ~ line 14 ~ player1", player1)
 
-
-
-// toto
