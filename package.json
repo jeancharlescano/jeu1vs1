@@ -1,0 +1,25 @@
+{
+  "name": "jeu1vs1",
+  "version": "1.0.0",
+  "description": "jeu 1vs1 pour apprendre a dev js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancharlescano/jeu1vs1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeancharlescano/jeu1vs1/issues"
+  },
+  "homepage": "https://github.com/jeancharlescano/jeu1vs1#readme",
+  "dependencies": {
+    "prompt": "^1.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
